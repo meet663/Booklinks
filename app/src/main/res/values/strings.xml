@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">booklinks_app</string>
+    <string name="txt1_text">SQLite Database Application</string>
+    <string name="hint_resource">Select Book Quality</string>
+    <string-array name="names">
+
+        <item>bad</item>
+        <item>Poor</item>
+        <item>ok</item>
+        <item>good</item>
+        <item>Excellent</item>
+    </string-array>
+
+</resources>
